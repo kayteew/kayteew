@@ -1,5 +1,3 @@
-# readme
-
 # 💫 About Me:
 🔭 I’m currently working on Lunar<br>🌱 I’m currently learning Lua-u
 
